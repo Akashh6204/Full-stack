@@ -1,0 +1,32 @@
+/* .box{
+    background-color: aqua;
+    /* transform: translate(100px,50px); */
+    /* transform: rotate(-45deg); */
+    /* margin: 200px; */
+    /* transform: scale(3,2  ); */
+/* }  */
+div{
+    width: 100vw;
+    height: 1000px;
+    background-color: yellow;
+}
+.box{
+    width: 150px;
+    height: 200px;
+    background-color: aqua;
+    border: 1px solid black;
+    display: inline-block;
+}
+#box3{
+    position: relative;
+    top: 100px;
+    left: 50px;
+}
+#box4{
+    position: fixed;
+    top: 10px;
+}
+#box2{
+    position: absolute;
+    
+}

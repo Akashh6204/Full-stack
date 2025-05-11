@@ -1,0 +1,4 @@
+.text-shadow{
+    text-shadow:3px 3px 3px orange;
+    text-shadow:3px 3px 3px orange, 7px 7px 7px blue ;
+}
